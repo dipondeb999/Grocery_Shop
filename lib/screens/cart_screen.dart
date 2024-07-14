@@ -30,6 +30,7 @@ class CartScreen extends StatelessWidget {
             return Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
+                // my cart
                 Padding(
                   padding: const EdgeInsets.only(left: 24, top: 5),
                   child: Text(
